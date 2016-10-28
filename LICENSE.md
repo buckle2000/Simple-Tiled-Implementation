@@ -1,8 +1,9 @@
-# Simple Tiled Implementation
+# Simple Tiled Implementation - Breakpoint dedicated
 
 This code is licensed under the [**MIT/X11 Open Source License**][MIT].
 
 Copyright (c) 2014 Landon Manning - LManning17@gmail.com - [LandonManning.com][LM]
+Copyright (c) 2016 buckle2000 - buckle2000@zoho.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
