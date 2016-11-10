@@ -11,7 +11,7 @@ local STI = {
 	_DESCRIPTION = "Simple Tiled Implementation is a Tiled Map Editor library designed for the *awesome* LÖVE framework.",
 	cache        = {}
 }
-STI.__index = STI
+STI.__index = STI 
 
 local path       = (...):gsub('%.', '/'):gsub('/init$', '') .. "/"
 local pluginPath = path .. "plugins/"
